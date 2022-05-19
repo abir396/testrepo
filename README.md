@@ -1,2 +1,2 @@
 # coursera
-courses I have enrolled in Machine Learning with Python Course
+I have enrolled in Machine Learning with Python Course
